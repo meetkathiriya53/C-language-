@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    for(int i=1 ,j=5;i<=5 && j>0;i++,j--){
+    
+    printf("%d ",i);
+    printf("%d\n",j);
+     
+}}
