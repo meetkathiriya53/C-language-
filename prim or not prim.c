@@ -10,7 +10,7 @@ int main() {
     printf("number is not praim number");
     break ;
     }else{
-    printf("number is not praim number");
+    printf("number is praim number");
     }}
 }
     
